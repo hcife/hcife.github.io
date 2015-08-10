@@ -5,6 +5,9 @@ body {
 	height: 100%;
 }
 
-img {
-	width: 100%;
+#can {
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin: auto;
 }
